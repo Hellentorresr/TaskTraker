@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'TaskTraker';
+  parentMassage: string = 'Message coming from the parent component!!!';
 }
